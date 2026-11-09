@@ -1,0 +1,7 @@
+streamlit>=1.43
+pydeck>=0.9
+pandas>=2.0
+numpy>=1.26
+geopandas>=1.0
+shapely>=2.0
+admdongkor>=0.7.1
